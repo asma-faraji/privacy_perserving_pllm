@@ -141,5 +141,3 @@ No key is stored in this repository.
 ## Data
 
 [PersonaMem-v2](https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2)
-(`bowen-upenn/PersonaMem-v2`), text split.
-# privacy_perserving_pllm
