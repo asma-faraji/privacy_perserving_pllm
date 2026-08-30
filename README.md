@@ -7,7 +7,7 @@ Centralised and Federated Training***.
 
 When someone asks a language model an ordinary question, the information needed
 to answer it *well for that person* is usually not in the question. It is buried
-in what they said in earlier conversations — a habit, a constraint, a
+in what they said in earlier conversations a habit, a constraint, a
 preference they mentioned once and never repeated. A model that is handed the
 relevant snippet of that history still has to notice which part of it matters,
 work out what it implies, and use it without inventing personal details the
